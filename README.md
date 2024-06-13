@@ -1,5 +1,17 @@
 # Car-Driving-School-Management-System
 
+Technolgies used
+1. Web Services - RestAPI
+2. Design Pattern - Singleton/Observer/Facade Pattern
+3. Validation
+4. Dynamic XML (XML/XSL)
+
+Roles
+1. End-Users
+2. Staff
+3. Admin
+
+Step By Step - opening the project
 1.XAMPP
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
@@ -20,6 +32,14 @@
 
 7.Run the script http://localhost/cdsms
 
+Web Services - RestAPI
+1. In XAMPP folder
+2. Open php.ini file
+3. Find ;extension=xsl
+4. Remove the ;
+5. Save it and reopen again
+
+Admin Role
 Username: admin
 Password: admin123
 
